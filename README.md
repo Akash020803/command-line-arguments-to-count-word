@@ -33,7 +33,9 @@ print("Word Count in File = ",count)
 
 ### OUTPUT:
 
+## Program:
 ![](out.png)
-
+## Text File:
+![](txt.png)
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
